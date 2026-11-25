@@ -1,0 +1,1 @@
+good support for Termux on aarch64 CPU architecture of phone
