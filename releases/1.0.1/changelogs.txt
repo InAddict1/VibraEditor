@@ -1,0 +1,1 @@
+Completed the selection system and updated the update system to create a command in usr/bin or $PREFIX/bin on Termux. Added a fallback suggestion to use sudo when write permissions are denied and corrected UX bugs.
