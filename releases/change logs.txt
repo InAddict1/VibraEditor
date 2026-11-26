@@ -1,0 +1,2 @@
+V1.1 - changelogs:
+translated the editor in English, and when VibraEditor is updated, it show a changelog popup.
